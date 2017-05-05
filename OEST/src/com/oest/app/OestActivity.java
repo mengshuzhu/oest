@@ -203,7 +203,7 @@ public class OestActivity extends Activity {
         	}
     		return false;
     	}
-        });
+        }); 
         layout.addView(glView);
         
         text = new TextView(this);
